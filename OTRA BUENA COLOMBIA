@@ -1,251 +1,999 @@
 #EXTM3U
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.postimg.cc/htrTt5k3/vision-tv-musica.png",VISION TV HD
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/cLc6cNCd/TOP-MAX.png",TechScience 365 (360p)
-https://stmv1.cnarlatam.com/techscience365/techscience365/playlist.m3u8
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/617xnqaJ0QL._RI_.jpg",Xtrema Animal (360p)
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/P50dGPwq/DISCOVERY-TURBO.jpg",DISCOVERY_TURBO_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159791
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/ryGsSCtN/COMEDY-CENTRAL.jpg",COMEDY_CENTRAL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159792
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/661mYPzt/las-estrellas.png",ESTRELLAS_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159793
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-kids_m.png",DISCOVERY_KIDS_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159794
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/L6yPVmr2/CARACOL-TV.jpg",CARACOL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159795
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/f14f3c9d-5d6b-4c4a-b684-38e4701119a2_m.jpg",DIA_TV_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159797
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://conexioncapital.co/wp-content/uploads/2020/05/pre-capital.jpg",CANALCAPITAL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159798
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_cinecanal-sd-hd-1_m.png",CINECANAL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159799
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/RFf8cshx/CANAL-UNO.png",CANAL_UNO_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159800
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/SNFWS7xc/discovery-channel.png",DISCOVERY_CHANNEL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159801
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/B6Zj0rph/DISCOVERY-H-H.jpg",DISCOVERY_HOME_HEALTH_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159802
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/N0RSXC5q/AE-logo.jpg",AE_MUNDO_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159804
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png",AZMUNDO_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159805
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-hd-theater_m.png",DISCOVERY_THEATER_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159806
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cartoon-network-1-logo-png-transparent.png",CARTOON_NETWORK_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159807
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN_SPORTS.png",WIN SPORTS + HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159808
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png",AZCORAZON_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159809
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/4xnXxt13/WIN-SPORTS.png",WINSPORTS_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159810
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://w1.pngwing.com/pngs/586/145/png-transparent-tv-axn-television-show-amazing-race-asia-5-television-channel-entertainment-logo-sony-s-thumbnail.png",AXN_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159812
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png",DISCOVERY_WORLD_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159813
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/gjM45x3g/amc.png",AMC_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159815
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/12/Disney_channel_uk_hd.png",DISNEY_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159816
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-claro_m.png",CANAL_CLARO_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159817
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.seekpng.com/png/small/286-2863259_claro-sports-claro-sports.png",CLARO_SPORTS_LATAM_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159818
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg",ESPN_3_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159819
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png",FOXSP3MXHD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159820
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-plus-pan-regional-hd_m.png",HBO_PLUS_HD_MX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159821
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://barrettsportsmedia.com/wp-content/uploads/2021/07/ESPN_PLUS_FC_POS-copy.jpg",ESPN_PLUS_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159822
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/03/394-3949767_fox-sports-fox-sport-2-logo-png-transparent.png",FOXSP2MXHD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159823
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.totalmedios.com/img/noticias/2010/08/Noticia9287__838x390.jpg",UNIVERSAL_CHANNEL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159824
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/dVTP2FKb/hbo-signature.png",HBO_SIGNATURE_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159825
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.postimg.cc/VNCfkM6b/fox.png",FOX_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159826
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png",GOLDEN_PREMIER_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159827
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_nickelodeon-hd_m.png",NICK_2_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159828
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png",ESPN_2_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159829
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg",E_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159830
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",HBO_XTREME_HD_MX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159831
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.seekpng.com/png/detail/205-2055551_tnt-hd-europe-logo-tnt-hd-logo-png.png",TNT_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159832
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.elfinanciero.com.mx/resizer/t4vHRoheiNbROq-ojIXjdXjLZIg=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZ4AX3STGVCLLJ6NQ4BVVKJHRM.jpg",FOXSPORTS_PREMIUM_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159833
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn6.aptoide.com/imgs/e/8/7/e87ded4659a59808d596016a323f40cf_icon.jpg",TRU_TV_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159834
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.seekpng.com/png/detail/291-2917130_biblia-png-sin-fondo-history-tv-logo.png",HISTORY_CHANNEL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159835
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/pe_tnt-series_m.png",TNT_SERIES_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159838
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://w7.pngwing.com/pngs/318/371/png-transparent-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text-logo.png",ESPN_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159839
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://static.wixstatic.com/media/905b97_4a933d16efde4cc8a9b911b8bc74e213~mv2.png/v1/fit/w_2500,h_1330,al_c/905b97_4a933d16efde4cc8a9b911b8bc74e213~mv2.png",FOXSP1 MXHD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159840
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-max.jpg",HBO_MUNDI_HD_MX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159842
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-oeste-hd_m.png",HBO_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159843
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2014/02/science_channel_redux_logo_detail.jpg",DISCOVERY_SCIENCE
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159845
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://vectorlogoseek.com/wp-content/uploads/2019/08/canal-tcm-vector-logo.png",tcm
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159846
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://assets.puzzlefactory.pl/puzzle/487/672/original.jpg",DISNEY_JR
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159847
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.logotypes101.com/logos/204/EF8E57A7F01BE270F597717B28A84D16/max.png",MAX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159848
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://m.media-amazon.com/images/I/31AIdoYz1sL.png",ALJAZEERA
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159849
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.kindpng.com/picc/m/419-4190775_transparent-boomerang-logo-png-boomerang-logo-transparent-png.png",BOOMERANG_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159851
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="http://assets.stickpng.com/thumbs/5a5b8ead14d8c4188e0b0938.png",TV5
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159852
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png",CINEMAPLUS
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159853
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/cinelatino-min.png",CINELATINO
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159854
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://static.wixstatic.com/media/61a456_b830c605b75d4775b82e4ebd6e64ee32~mv2.jpg/v1/crop/x_0,y_148,w_2251,h_1955/fill/w_296,h_264,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/IMAGEN%20PERFIL%20REDES%20SOCIALES%20TELECARIBE%2002.jpg",TELECARIBE_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159855
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg",TLNOVELAS
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159856
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="http://m1.myradiola.com/img/prestashop-logo-1620737576.jpg",RADIOLA
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159858
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.imgur.com/pmdbNm4.jpg",CINEMAX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159859
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://i.pinimg.com/originals/2e/62/2f/2e622f7df9cccf17e99d8a3456344754.png",TELECAFE_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159860
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://teleamiga.tv/wp-content/uploads/2022/03/cropped-teleamiga-web-logo-01-1.png",TELEAMIGA
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159862
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://multipremier.com/wp-content/uploads/2020/10/cropped-mp.png",MULTIPREMIER
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159863
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://gobernanzasdigital.com/wp-content/uploads/2020/09/CERTV_logo.jpg",CERTV
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159864
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://3.bp.blogspot.com/-l9BVoyamVcI/VuHeZ4Su-_I/AAAAAAAAAsY/90amsNQHOKE/s1600/CDN-SportsMix-Logo.jpg",CDNSPORTSMAX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159865
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.pngall.com/wp-content/uploads/13/CDN-PNG-Clipart.png",CDNHD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159869
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.fenixvalor.com/wp-content/uploads/2013/06/ET-DEL-TIEMPO.png",TIEMPO_TV
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159870
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/br_i-sat_m.png",ISAT
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159871
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_pasiones_m.png",PASIONES_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159872
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",FOX_SPORTS3_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159873
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png",FOX_SPORTS2_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159874
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://skybr.com.br/img/channels/lg-277-canal-max-up-hd.png",MAX_UP_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159875
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://p.kindpng.com/picc/s/287-2873736_cinemax-logo-hd-png-download.png",CINEMAX_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159876
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://p.kindpng.com/picc/s/221-2214199_prime-video-logo-png-max-prime-transparent-png.png",MAX_PRIME_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159877
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX_SPORTS_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159878
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.pngkey.com/png/full/721-7210998_paramount-channel-france.png",PARAMOUNT_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159879
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png",NICKELODEON_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159880
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://eslanota.com/wp-content/uploads/2020/04/co_mas-chic_m.png",MASCHIC_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159881
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1201_7_9711.png",STUDIO_UNIVERSAL_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159882
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.seekpng.com/png/full/274-2748692_sony-hd-sony-pictures-network-logo.png",SONY_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159883
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.kindpng.com/picc/m/19-194908_nick-jr-hd-png-download.png",NICK_JR_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159884
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png",UNIVERSAL_REALITY_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159885
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png",UNIVERSAL_COMEDY_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159886
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2-hd.png",H2_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159887
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://seeklogo.com/images/M/mtv-hd-logo-0CFFA28044-seeklogo.com.png",MTV_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159888
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png",UNIVERSAL_PREMIER_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159889
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg",RCN_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159890
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.604426719_UniversalPremiere.png.12f05e2df4549f210ad2f2219770e237.png",UNIVERSAL_PREMIER_HD_MX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159891
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/small.139088045_UniversalCrime-Oscuro.png.b98d5401ede096af7197e12256a6ec37.png",UNIVERSAL_CRIME_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159892
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png",GOLDEN_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159893
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.seekpng.com/png/detail/57-579021_file-mtv-live-svg-mtv-live-logo-png.png",MTV_LIVE_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159894
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png",SPACE_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159895
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png",UNIVERSAL_CRIME_HD_MX
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159896
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.nicepng.com/png/detail/272-2722033_vh1-hd.png",VH1_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159897
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_warner-hd_m.png",WARNER_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159899
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.kindpng.com/picc/m/249-2498159_tlc-logo-png-transparent-png.png",TLC_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159900
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2-hd.png",H2_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159901
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png",TOONCAST
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159902
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_09/meme.png.5b9ce8a51c04ecadd910c55234f0c52b.png",RCN_TELENOVELAS
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159903
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.kindpng.com/picc/m/296-2960817_vh1-classic-tv-logo-hd-png-download.png",VH1_CLASSIC
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159905
-#EXTINF:-1 group-title="NOTICIAS MUNDO" tvg-logo="https://imagenesntn24.canalrcn.com/ImgNtn24/asset/990X557.png",NTN24
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159906
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/68f8250b-5ab3-4d48-ae1c-281e6a9422c2_m.jpg",TCM
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159907
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.glitztvla.com/images/logo.png",GLITZ
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159908
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Nicktoons-on-Nickelodeon-Animation-Studio-logo.png",NICKTOONS
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159909
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_mtv-hits_m.png",MTV_HITS
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159910
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Canal_RCN_logo_%282%29.svg/640px-Canal_RCN_logo_%282%29.svg.png",NUESTRA_TELE
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159911
-#EXTINF:-1 group-title="CLARO COLOMBIA (FHD)" tvg-logo="https://www.nicepng.com/png/full/177-1773667_tbs-logo.png",TBS_HD
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/159912
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://144.217.80.14/cine/hbo.jpeg",HQ | HBO
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170737
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/a7f9c898c812805f26c4ea1e490201da.jpeg",HQ | HBO 2
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170738
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/d1634feb364379b13f95c2c0a464a980.jpeg",HQ | HBO Mundi
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170739
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://144.217.80.14/cine/hboplus.jpeg",HQ | HBO PLUS
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170740
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/ad7c604a311bc79f9110eaa409f12719.jpeg",HQ | HBO POP
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170741
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/3d85a8c42a57d5fc2496061270e2352d.jpg",HQ |HBO Xtreme
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170742
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/16e197121c1752d4f42e8999863104ce.jpg",HQ | History
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170743
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/33561003f44d374c719506bef4faeba4.jpg",HQ | Sony
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170744
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/ff2364a0be3d20e46cc69efb36afe9a5.jpg",HQ | Space
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170745
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/bcb016feb3b993ee892455bbc8c3d22d.jpg",HQ | Discovery H&H
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170746
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/a8754f6507cc84e3122cf46c87aee217.jpg",HQ | Studio Universal
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170747
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/05fce68836347ec77b6ce7f4c3367a36.jpg",HQ | TNT
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170748
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/c72dc58420bf5bb9bfd5792b75564396.jpg",HQ | Universal
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170749
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/b6bb43df4525b928a105fb5741bddbea.jpg",HQ |A&E
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170750
-#EXTINF:-1 group-title="High quality (LAT)" tvg-logo="http://iptvglobal.site:25461/images/697247b79586fe36269e1133aa0646cc.jpg",HQ | Distrito Comedia
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/170751
-#EXTINF:-1 group-title="FUTBOL COLOMBIANO" tvg-logo="https://i.postimg.cc/5yNxxpL0/WIN_SPORTS.png",LIGA BETPLAY PARTIDOS DEL DIA
-http://playhispano.org:25461/CLAROCLOMNIASKY/ErMTjPHz41/171876
+#EXTM3U
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/Afro_Samurai_Resurrection_TV-869167670-large.jpg",Afro Samurai Resurrection (2009)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Afro%20Samurai%20Resurrection%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F039%2F585%2Fking-of-thorn-el-rey-espino-1.jpg&nuevoancho=690&medio=abc",El rey espino (2009)
+https://archive.org/download/animal-crackers-2017_202101/El%20rey%20espino%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://www.ecartelera.com/carteles/12800/12894/001_m.jpg7)",Fairy Tail Dragon Cry (2017)
+https://archive.org/download/animal-crackers-2017_202101/Fairy%20Tail%20Dragon%20Cry%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://1.bp.blogspot.com/-RN6sKVpdFDU/X9yAaQJJWKI/AAAAAAAFyOo/F7rkKe1X_gY41lqhMMTuGRmeVfUTGxi8ACLcBGAsYHQ/s700/prismaillyalicht.jpg",Fatekaleid liner PrismaIllya Movie Sekka no Chikai (2017)
+https://archive.org/download/animal-crackers-2017_202101/Fatekaleid%20liner%20Prisma%E2%98%86Illya%20Movie%20Sekka%20no%20Chikai%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/Ginga_Eiyuu_Densetsu_Gaiden_Ougon_no_Tsubasa-619817476-large.jpg",Ginga Eiyuu Densetsu Gaiden Ougon no Tsubasa (1992)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Ginga%20Eiyuu%20Densetsu%20Gaiden%20Ougon%20no%20Tsubasa%20%281992%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/H_roes_humildes_Life_Ain_t_Gonna_Lose_C-818135260-mmed.jpg",Heroes humildes (2018)
+https://archive.org/download/animal-crackers-2017_202101/He%CC%81roes%20humildes%20%282018%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.jpg",NiNo
+https://archive.org/download/yummy_202105/NiNoKuni%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://image.tmdb.org/t/p/w1280/fQ0UYOHuU6n2qsoYZ44pG59sFzb.jpg",Redline (2009)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Redline%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://pics.filmaffinity.com/The_Wonderland-805084923-large.jpg",The Wonderland (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Wonderland%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.jpg",Toys and pets - Tea Pets (2017)
+https://archive.org/download/yummy_202105/Toys%20and%20pets%20-%20Tea%20Pets%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD ANIME" tvg-logo="https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.jpg",Zha
+https://archive.org/download/yummy_202105/Ne%20Zha%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/78/41/00/20062894.jpg",16 calles (2006)
+https://archive.org/download/the-immortal-wars-resurgence-2019/16%20calles%20%282006%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://www.tododvdfull.com/wp-content/uploads/2015/09/Another-48-Hrs..jpg",48 horas ma´s (1990)
+https://archive.org/download/i-hate-summer-2020/48%20horas%20ma%CC%81s%20%281990%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Borning_Asfalto_en_llamas-518088537-large.jpg",Borning Asfalto en llamas (2020)
+https://archive.org/download/i-hate-summer-2020/Borning%20Asfalto%20en%20llamas%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/Bright.jpg",Bright
+https://archive.org/download/94-1_20210929/Bright.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/elcriticonfotos/collateralcartel.jpg",Collateral (2004)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Collateral%20%282004%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Comando%20-%20Commando%20%281985%29.jpg",Comando  Commando (1985)
+https://archive.org/download/2-comando-commando-1985/2Comando%20-%20Commando%20%281985%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.jpg",Cómo me convertí en superhéroe
+https://archive.org/download/como-me-converti-en-superheroe/C%C3%B3mo%20me%20convert%C3%AD%20en%20superh%C3%A9roe.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.jpg",Cross el ascenso de los villanos
+https://archive.org/download/2-comando-commando-1985/Cross%20el%20ascenso%20de%20los%20villanos.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Deep_Blue_Sea_3-680442315-large.jpg",Deep Blue Sea 3 (2020)
+https://archive.org/download/wendy-2020_202012/Deep%20Blue%20Sea%203%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://2.bp.blogspot.com/-xUbyQASi4SA/XBgP4pnkOzI/AAAAAAAAAPo/OZNhNX-MR60hBvj1avUiFRm93sp9kg0kgCLcBGAs/s1600/Depredador.jpg",Depredador - Predator (1987)
+https://archive.org/download/2-comando-commando-1985/Depredador%20-%20Predator%20%281987%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/fqBirm9NLTb37jT36W4YZUEDjdf.jpg",Diablo (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Diablo%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91sDhux1KLL._AC_SL1500_.jpg",die drei musketiere
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/48386bfcf9002b870c90cdf73ba0e10f-360p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://www.ecartelera.com/carteles/5100/5159/001_m.jpg",el halcon (1987)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Yo%2C%20el%20halco%CC%81n%20%281987%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/El_legado_de_las_mentiras-574431853-mmed.jpg",El legado de las mentiras (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/El%20legado%20de%20las%20mentiras%20%282020%29-1.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_14-56-00.jpg",El Santo (2017)
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20Santo%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/El%20%C3%BAltimo%20gran%20h%C3%A9roe.jpg",El último gran héroe
+https://archive.org/download/94-1_20210929/El%20%C3%BAltimo%20gran%20h%C3%A9roe.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://image.tmdb.org/t/p/w1280/iqRUOtbDunNq7gTux3zXz25Krwp.jpg",EN BRAZOS DE UN ASESINO
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/d244a69c8681f159c530d3b76ad6cbbb-480p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg",Furia de titanes (2010)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Furia%20de%20titanes%20%282010%29%20720p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://i0.wp.com/www.filmlinks4u.net/wp-content/uploads/2010/03/GoldenEye-1995-Hindi-Dubbed-Movie-Watch-Online1.jpg",GoldenEye (1995)
+https://archive.org/download/the-immortal-wars-resurgence-2019/GoldenEye%20%281995%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/H_rcules_El_origen_de_la_leyenda-194423889-large.jpg",He´rcules El origen de la leyenda (2014)
+https://archive.org/download/the-immortal-wars-resurgence-2019/He%CC%81rcules%20El%20origen%20de%20la%20leyenda%20%282014%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Headshot.jpg",Headshot (2016)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Headshot%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.jpg",Jinetes de la justicia
+https://archive.org/download/2-comando-commando-1985/Jinetes%20de%20la%20justicia.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/L_mite_48_horas-717276934-mmed.jpg",Li´mite 48 horas (1982)
+https://archive.org/download/i-hate-summer-2020/Li%CC%81mite%2048%20horas%20%281982%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/Persecuci%C3%B3n%20extrema%206%2C%20los%20pr%C3%B3ximos%20cuarteles.jpg",los próximos cuarteles
+https://archive.org/download/94-1_20210929/Persecuci%C3%B3n%20extrema%206%2C%20los%20pr%C3%B3ximos%20cuarteles~1.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-LUQo41dJeikT04nuEySGBU42oph93DRk9A&usqp=CAU",Nocturno (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Nocturno%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Riesgo%20en%20el%20aire.jpg",Riesgo en el aire
+https://archive.org/download/2-comando-commando-1985/1-%20Riesgo%20en%20el%20aire.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/66/70/13/20147182.jpg",Rompiendo las reglas (2008)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Rompiendo%20las%20reglas%20%282008%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL5VX8/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",Rompiendo las reglas 2 (2011)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Rompiendo%20las%20reglas%202%20%282011%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/06/10/46/072132.jpg",Serpientes en el avio´n (2006)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Serpientes%20en%20el%20avio%CC%81n%20%282006%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://image.tmdb.org/t/p/w500/wFklu01YHWhp2MxljR8e3XyvpPp.jpg",SWAT (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/SWAT%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Doorman_teaser_poster.jpg/220px-Doorman_teaser_poster.jpg",The Doorman (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Doorman%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/The_Immortal_Wars_Resurgence-139783082-large.jpg",The Immortal Wars Resurgence (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Immortal%20Wars%20Resurgence%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://media-cache.cinematerial.com/p/500x/qldym3hg/the-outpost-canadian-dvd-movie-cover.jpg?v=1592364435,JPG",The Outpost (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Outpost%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFmZTdhYmItNjIyZS00ZjVlLWFjZjgtMjMyMDA5ZmVjNzE0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",The Tax Collector (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Tax%20Collector%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-17-56.jpg",The Worthy (2016) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20The%20Worthy%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Tiempo_de_caza-624991569-large.jpg",Tiempo de caza (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tiempo%20de%20caza%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/00/54/20076452.jpg",Tras la li´nea enemiga (2001)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Tras%20la%20li%CC%81nea%20enemiga%20%282001%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://i2.wp.com/pitakwa360.com/wp-content/uploads/2020/10/Tremors-Shrieker-Island-2020-movie-poster.jpg?resize=344%2C487&ssl=1",Tremors Shrieker Island (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Tremors%20Shrieker%20Island%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://img.repelis.id/cover/trust-no-1-1597343713.jpg",Trust No 1 (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Trust%20No%201%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/honest_thief-988558041-large.jpg",Un ladro´n honesto (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Un%20ladro%CC%81n%20honesto%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/94-1_20210929/Cuesti%C3%B3n%20de%20sangre.jpg",Ver Cuestión de sangre (2021)
+https://archive.org/download/94-1_20210929/Ver%20Cuesti%C3%B3n%20de%20sangre%20%282021%29%20480%20%40JuAnChO1304~1.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.jpg",Viuda negra
+https://archive.org/download/como-me-converti-en-superheroe/Viuda%20negra.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-24-26.jpg",Wheelman (2017)
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Wheelman%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.jpg",Wrong Place Wrong Time
+https://archive.org/download/2-comando-commando-1985/Wrong%20Place%20Wrong%20Time.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://pics.filmaffinity.com/Zona_hostil-925160082-large.jpg",ZONA HOSTIL
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/3316c37e0c1225379cce86cfaa6f77bb-480p.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Kill%20Bill%202.jpg",Kill Bill 2
+https://archive.org/download/mentiras-verdaderas-1/Kill%20Bill%202~1.ia.mp4
+#EXTINF:-1 group-title="VOD ACCION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Mentiras%20verdaderas.jpg",Mentiras verdaderas
+https://archive.org/download/mentiras-verdaderas-1/Mentiras%20verdaderas~1.ia.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://1.bp.blogspot.com/__lLsnHCxV_A/TGp5-q5i1CI/AAAAAAAAEow/PAplr5dAqcI/s640/101+Dalmatians+II+Patch%27s+London+Adventure+%282003%29.jpg",101 Dálmatas 2
+https://archive.org/download/animal-crackers-2017_202101/101%20da%CC%81lmatas%202%20%282003%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas.jpg",Alicia en el país de las maravillas
+https://archive.org/download/94-1_20210929/Alicia%20en%20el%20pa%C3%ADs%20de%20las%20maravillas~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F018%2F724%2Ffievel-va-al-oeste-1.jpg&nuevoancho=690&medio=abc",An American Tail Fievel Goes West
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fievel%20va%20al%20Oeste%20%281991%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Animal_Crackers-604465472-large.jpg",Animal Crackers (2017)
+https://archive.org/download/animal-crackers-2017_202101/Animal%20Crackers%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/astro_boy_astroboy-600990296-large.jpg",Astro Boy (2009)
+https://archive.org/download/animal-crackers-2017_202101/Astro%20Boy%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/viuBC3WzeDH10DNtNYFeCtudaDv.jpg",Bunyan and Babe (2017)
+https://archive.org/download/animal-crackers-2017_202101/Bunyan%20and%20Babe%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/De_patitas_a_la_calle-155443970-mmed.jpg",De patitas a la calle (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/De%20patitas%20a%20la%20calle%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ4MzUyZDQtNmY0OC00ZjUyLTljZDMtYTYwM2U1ZjE3MTE3XkEyXkFqcGdeQXVyNDU4NzA4NDk@._V1_.jpg",Deathstroke Knights & Dragons - The Movie (2020)
+https://archive.org/download/animal-crackers-2017_202101/Deathstroke%20Knights%20%26%20Dragons%20-%20The%20Movie%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/Deep%20el%20pulpo.jpg",Deep el pulpo
+https://archive.org/download/94-1_20210929/Deep%20el%20pulpo.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Doraemon_y_la_gran_aventura_en_la_Ant_rtida-630171136-large.jpg",Doraemon y la gran aventura en la Anta´rtida (2017)
+https://archive.org/download/animal-crackers-2017_202101/Doraemon%20y%20la%20gran%20aventura%20en%20la%20Anta%CC%81rtida%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_combate_definitivo-939157224-mmed.jpg",Dragon Ball Z El combate definitivo (1994)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20combate%20definitivo%20%281994%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/715OAdLejWL.jpg",Dragon Ball Z El mas fuerte del mundo 1990
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20ma%CC%81s%20fuerte%20del%20mundo%20%281990%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-regreso-broly.jpg?itok=eVP1kqJg",Dragon Ball Z El regreso de Broly (1994)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20regreso%20de%20Broly%20%281994%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_El_super_guerrero_Son_Goku-758634681-large.jpg",Dragon Ball Z El super guerrero Son Goku (1991)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20El%20super%20guerrero%20Son%20Goku%20%281991%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/11/dragon-ball-z-estalla-duelo.jpg?itok=ZSJJMo3d",Dragon Ball Z Estalla el duelo (1993)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Estalla%20el%20duelo%20%281993%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Guerreros_de_fuerza_ilimitada-880701234-mmed.jpg",Dragon Ball Z Guerreros de fuerza ilimitada (1992)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Guerreros%20de%20fuerza%20ilimitada%20%281992%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://gnula.nu/wp-content/uploads/2018/07/Doragon_B%C3%B4ru_Z_3_Chiky%C3%BB_marugoto_ch%C3%B4_kessen_poster_jap%C3%B3n.jpg",Dragon Ball Z La super batalla (1990)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20La%20super%20batalla%20%281990%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragon_Ball_Z_Los_Guerreros_de_Plata-796832567-large.jpg",Dragon Ball Z Los guerreros de plata (1993)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20guerreros%20de%20plata%20%281993%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.pelis24.to/old/wp-content/uploads/portadas/dragon-ball-z-los-mejores-rivales.png",Dragon Ball Z Los mejores rivales (1991)
+https://archive.org/download/animal-crackers-2017_202101/Dragon%20Ball%20Z%20Los%20mejores%20rivales%20%281991%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Dragones_al_rescate_el_secreto_del_ala_cantarina_TV-578983547-large.jpg",Dragones al rescate El secreto del Ala Cantarina (2020)
+https://archive.org/download/animal-crackers-2017_202101/Dragones%20al%20rescate%20El%20secreto%20del%20Ala%20Cantarina%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/the_wishmas_tree-248623194-large.jpg",El arbol de los deseos 2020
+https://archive.org/download/animal-crackers-2017_202101/El%20a%CC%81rbol%20de%20los%20deseos%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.jpg",El arco mágico
+https://archive.org/download/como-me-converti-en-superheroe/El%20arco%20m%C3%A1gico.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.jpg",el Bart y el Loki
+https://archive.org/download/como-me-converti-en-superheroe/Los%20Simpson%20El%20bueno%2C%20el%20Bart%20y%20el%20Loki.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.jpg",El Despertar de la Siesta
+https://archive.org/download/yummy_202105/Maggie%20Simpson%20en%2C%20El%20Despertar%20de%20la%20Siesta.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.jpg",El imperio perdido
+https://archive.org/download/como-me-converti-en-superheroe/Atlantis%2C%20El%20imperio%20perdido.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.jpg",el regreso de Milo
+https://archive.org/download/como-me-converti-en-superheroe/Atlantis%202%2C%20el%20regreso%20de%20Milo.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.aytoreinosa.es/wp-content/uploads/2019/12/La_oveja_Shaun_La_pel_cula_Granjagued_n-404553993-large.jpg",el_cordero La película Granjagedón
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Shaun_el_cordero_2015_Richard_Starzak.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Emoji.jpg",Emoji
+https://archive.org/download/como-me-converti-en-superheroe/Emoji.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/82/94/86/20416090.jpg",Fievel va al Oeste (1991)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Fievel%20va%20al%20Oeste%20%281991%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Nivel_intr_pido-409953632-large.jpg",Intre´pido (2020)
+https://archive.org/download/animal-crackers-2017_202101/Intre%CC%81pido%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/jungle_beat_the_movie-437586745-large.jpg",Jungle Beat la peli´cula (2020)
+https://archive.org/download/animal-crackers-2017_202101/Jungle%20Beat%20la%20peli%CC%81cula%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Kitbull.jpg",Kitbull
+https://archive.org/download/como-me-converti-en-superheroe/Kitbull.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/La_famosa_invasi_n_de_los_osos_en_Sicilia-367882695-large.jpg",La famosa invasion de los osos en Sicilia (2019)
+https://archive.org/download/animal-crackers-2017_202101/La%20famosa%20invasio%CC%81n%20de%20los%20osos%20en%20Sicilia%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/80/54/12/19548830.jpg",La muerte de Superman (2007)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/La%20muerte%20de%20Superman%20%282007%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/80/54/12/19548830.jpg",La muerte de Superman (2007)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/La%20muerte%20de%20Superman%20%282007%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/bai_she_yuan_qi-197151309-large.jpg",La serpiente blanca (2019)
+https://archive.org/download/animal-crackers-2017_202101/La%20serpiente%20blanca%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/ue7MuAUBVdNVbk5v7qWdjqsFAiT.jpg",Latte y la piedra ma´gica (2019)
+https://archive.org/download/animal-crackers-2017_202101/Latte%20y%20la%20piedra%20ma%CC%81gica%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/lego_dc_shazam_magic_and_monsters-386498050-large.jpg",Lego DC ¡Shazam! Magia y monstruos (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Lego%20DC%20%C2%A1Shazam%21%20Magia%20y%20monstruos%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Los%20Elfkins.jpg",Los Elfkins
+https://archive.org/download/yummy_202105/Los%20Elfkins.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Los_Octonautas_y_las_cuevas_de_Sac_Actun_TV-140023116-large.jpg",Los Octonautas y las cuevas de Sac Actun (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Los%20Octonautas%20y%20las%20cuevas%20de%20Sac%20Actun%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Los%20tres%20cerditos.jpg",Los tres cerditos
+https://archive.org/download/yummy_202105/Los%20tres%20cerditos.jpg
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.jpg",Miraculous World Shanghai  The Legend of Ladydragon
+https://archive.org/download/como-me-converti-en-superheroe/Miraculous%20World%20Shanghai%20%20The%20Legend%20of%20Ladydragon.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/My%20Little%20Pony%20Nueva%20generaci%C3%B3n.jpg",My Little Pony Nueva generación
+https://archive.org/download/94-1_20210929/My%20Little%20Pony%20Nueva%20generaci%C3%B3n.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.jpg",Navidades con Garfield
+https://archive.org/download/2-comando-commando-1985/Navidades%20con%20Garfield.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo.jpg",Otra película de huevos y un pollo
+https://archive.org/download/yummy_202105/Otra%20pel%C3%ADcula%20de%20huevos%20y%20un%20pollo.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Paw_Patrol_Jet_to_the_Rescue-970834647-large.jpg",PAW Patrol Jet to the Rescue (2020)
+https://archive.org/download/wendy-2020_202012/PAW%20Patrol%20Jet%20to%20the%20Rescue%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/Pers%C3%A9polis.jpg",Persépolis
+https://archive.org/download/94-1_20210929/Pers%C3%A9polis.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/yummy_202105/-%20Peter%20Rabbit%202.jpg",Peter Rabbit 2
+https://archive.org/download/yummy_202105/-%20Peter%20Rabbit%202.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Ponyo_en_el_acantilado-965564845-large.jpg",Ponyo en el acantilado (2008)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Ponyo%20en%20el%20acantilado%20%282008%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.sinpeli.com/wp-content/uploads/2020/08/superman-hombre-del-manana-2020-11376-og.jpg",Superman - Hombre del Man~ana (2020)
+https://archive.org/download/wendy-2020_202012/Superman%20-%20Hombre%20del%20Man%CC%83ana%20%282020%29%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjIyZjBjYWUtMmUwNi00NWNkLTkxYWEtOGMyYmI4YTQzNzIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",The Spooky Tale of Captain Underpants Hack-a-ween (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Spooky%20Tale%20of%20Captain%20Underpants%20Hack-a-ween%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/94-1_20210929/The%20Witcher%2C%20La%20pesadilla%20del%20lobo.jpg",The Witcher La pesadilla del lobo
+https://archive.org/download/94-1_20210929/The%20Witcher%2C%20La%20pesadilla%20del%20lobo~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/tom_and_jerry_a_nutcracker_tale-337939332-large.jpg",Tom y Jerry El cuento de Cascanueces (2007)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Tom%20y%20Jerry_%20El%20cuento%20de%20Cascanueces%20%282007%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story.jpg",Toy Story (1995) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%20%281995%29%20720p.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/04/toy_story.jpg",Toy Story 1 (1995)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%201%20%281995%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Toy_Story_2-636362526-large.jpg",Toy Story 2 (1999)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%202%20%281999%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/Toy%20Story%203.jpg",Toy Story 3 (2010) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Toy%20Story%203%20%282010%29%20720p.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F053%2F431%2Ftoy-story-4-1.jpg&nuevoancho=690&medio=abc",Toy Story 4 (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Toy%20Story%204%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.laguiago.com/wp-content/uploads/2020/02/Kin%C3%A9polis-Granada-estrena-Trolls2-dentro-de-su-programa-Kin%C3%A9polis-Family-1.jpg",Trolls 2 Gira mundial (2020)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Trolls%202%20Gira%20mundial%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/uglydolls-818923983-large.jpg",UglyDolls Extraordinariamente Feos (2019)
+https://archive.org/download/velvet-buzzsaw-2019_202012/UglyDolls%20Extraordinariamente%20Feos%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic1.abc.es%2Fmedia%2Fpeliculas%2F000%2F033%2F144%2Fun-chihuahua-en-beverly-hills-3-que-viva-la-fiesta-1.jpg&nuevoancho=690&medio=abc",Un chihuahua en Beverly Hills 3 ¡Que viva la fiesta! (2012)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Un%20chihuahua%20en%20Beverly%20Hills%203%20%C2%A1Que%20viva%20la%20fiesta%21%20%282012%29-1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.jpg",Un lugar tranquilo 2
+https://archive.org/download/como-me-converti-en-superheroe/Un%20lugar%20tranquilo%202.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://www.cineytele.com/wp-content/uploads/2019/11/BAYALA.jpg",una aventura magica (2019)
+https://archive.org/download/animal-crackers-2017_202101/Bayala%2C%20una%20aventura%20ma%CC%81gica%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.jpg",Una película de huevos
+https://archive.org/download/2-comando-commando-1985/Una%20pel%C3%ADcula%20de%20huevos.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://pics.filmaffinity.com/Wish_Upon_A_Unicorn_AKA_Unicorn-512902676-large.jpg",Wish Upon a Unicorn (2020)
+https://archive.org/download/wendy-2020_202012/Wish%20Upon%20a%20Unicorn%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.jpg",Zapatos Rojos y los siete enanos
+https://archive.org/download/2-comando-commando-1985/-%20Zapatos%20Rojos%20y%20los%20siete%20enanos.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Catalina%20la%20Catrina%20Especial%20D%C3%ADa%20de%20Muertos.jpg",Catalina la Catrina Especial Día de Muertos
+https://archive.org/download/mentiras-verdaderas-1/Catalina%20la%20Catrina%20Especial%20D%C3%ADa%20de%20Muertos~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n%202%2C%20El%20tesoro%20de%20Simba.jpg",El tesoro de Simba
+https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n%202%2C%20El%20tesoro%20de%20Simba~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n.jpg",El rey león
+https://archive.org/download/mentiras-verdaderas-1/El%20rey%20le%C3%B3n~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20gran%20aventura%20de%20Billy%20y%20Mandy%20con%20el%20Coco.jpg",La gran aventura de Billy y Mandy con el Coco
+https://archive.org/download/mentiras-verdaderas-1/La%20gran%20aventura%20de%20Billy%20y%20Mandy%20con%20el%20Coco~1.ia.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20pel%C3%ADcula%20Pok%C3%A9mon%20Los%20secretos%20de%20la%20selva.jpg",La película Pokémon Los secretos de la selva
+https://archive.org/download/mentiras-verdaderas-1/La%20pel%C3%ADcula%20Pok%C3%A9mon%20Los%20secretos%20de%20la%20selva~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Lazos.jpg",Lazos
+https://archive.org/download/mentiras-verdaderas-1/Lazos~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/LEGO%20Star%20Wars%2C%20Cuentos%20escalofriantes.jpg",LEGO Star Wars Cuentos escalofriantes
+https://archive.org/download/mentiras-verdaderas-1/LEGO%20Star%20Wars%2C%20Cuentos%20escalofriantes~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20locos%20Addams%202.jpg",Los locos Addams 2
+https://archive.org/download/mentiras-verdaderas-1/Los%20locos%20Addams%202~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20siete%20pecados%20capitales%2C%20la%20maldici%C3%B3n%20de%20la%20luz.jpg",Los siete pecados capitales la maldición de la luz
+https://archive.org/download/mentiras-verdaderas-1/Los%20siete%20pecados%20capitales%2C%20la%20maldici%C3%B3n%20de%20la%20luz~1.ia.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Monster%20house%20-%20La%20casa%20de%20los%20sustos.jpg",Monster house - La casa de los sustos
+https://archive.org/download/mentiras-verdaderas-1/Monster%20house%20-%20La%20casa%20de%20los%20sustos~1.mp4
+#EXTINF:-1 group-title="VOD ANIMACION" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Pok%C3%A9mon%2C%20Los%20secretos%20de%20la%20selva.jpg",Pokémon Los secretos de la selva
+https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%20Normandie~1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_04-36-09.jpg",Amores caníbales (2016)
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Amores%20can%C3%ADbales%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://descargasinads.com/wp-content/uploads/2020/07/archive-poster-ver-online-descargar-WWW.DESCARGASINADS.jpg",Archive (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Archive%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Attraction-612163369-mmed.jpg",Attraction (2017)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Attraction%20%282017%29-1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.jpg",Avengers Endgame
+https://archive.org/download/2-comando-commando-1985/Avengers%20Endgame.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Aztech-667979204-large.jpg",Aztech (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Aztech%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.jpg",Beyond Skyline
+https://archive.org/download/como-me-converti-en-superheroe/Beyond%20Skyline.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Caos%2C%20el%20inicio.jpg",Caos El inicio 2021
+https://archive.org/download/94-1_20210929/%40cesser16%20%20Caos%20El%20inicio%20%282021%29%201080p~1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/earthfall_tv-909168957-large.jpg",Cata´strofe inminente (2015)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Cata%CC%81strofe%20inminente%20%282015%29.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Cherry%202000.jpg",Cherry 2000
+https://archive.org/download/2-comando-commando-1985/Cherry%202000.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://3.bp.blogspot.com/-b9h9Y-hCI7A/VibOUwATz2I/AAAAAAAAq7o/WVL5WsrDDWg/s1600/698021515.jpg",Containment (2015)
+https://archive.org/download/i-hate-summer-2020/Containment%20%282015%29.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Divergente.jpg",Divergente
+https://archive.org/download/como-me-converti-en-superheroe/Divergente%203.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601508.us.archive.org/34/items/como-me-converti-en-superheroe/Divergente%202.jpg",Divergente 2
+https://archive.org/download/como-me-converti-en-superheroe/Divergente%202.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://www.peliculas1mega.com/wp-content/uploads/2017/03/The_space_between_us_poster_latino.jpg",El espacio entre nosotros (2017)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20espacio%20entre%20nosotros%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://1.bp.blogspot.com/-INRUdodhZH4/Xv1mJDVfybI/AAAAAAAAB5k/FAoLiGkOz84iQhDhOX0EYdDbANvlHolgwCK4BGAsYHg/s16000/El%2Bquinto%2Belemento.jpg",El quinto elemento (1997)
+https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/1%20Ver%20El%20Quinto%20Elemento%20%281997%29%20480%20%40JuAnChO1304.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/En%20Modo%20Asesino.jpg",En Modo Asesino
+https://archive.org/download/94-1_20210929/En%20Modo%20Asesino~1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Espiral.jpg",Espiral
+https://archive.org/download/2-comando-commando-1985/Espiral.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Expiry.jpg",Expiry
+https://archive.org/download/2-comando-commando-1985/Expiry.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.jpg",Ghost in the Shell
+https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20-%20El%20hombre%20que%20r%C3%ADe.jpg",Ghost in the Shell Stand Alone Complex - El hombre que ríe
+https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%20-%20El%20hombre%20que%20r%C3%ADe.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.jpg",Ghost in the Shell Stand Alone Complex 2nd GiG
+https://archive.org/download/yummy_202105/Ghost%20in%20the%20Shell%20Stand%20Alone%20Complex%202nd%20GiG.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia.jpg",Guardianes de la galaxia (2014) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20%282014%29%20720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Guardianes%20de%20la%20galaxia%202.jpg",Guardianes de la galaxia Vol. 2 - 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Guardianes%20de%20la%20galaxia%20Vol.%202%20-%20720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Gu%C3%ADa%20del%20autoestopista%20gal%C3%A1ctico.jpg",Guía del autoestopista galáctico
+https://archive.org/download/94-1_20210929/Gu%C3%ADa%20del%20autoestopista%20gal%C3%A1ctico.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Inteligencia%20Artificial.jpg",Inteligencia Artificial
+https://archive.org/download/como-me-converti-en-superheroe/Inteligencia%20Artificial.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Liga%20de%20la%20Justicia.jpg",Liga de la justicia
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Liga%20de%20la%20justicia%20720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/the_recall-294838770-large.jpg",Los Invasores (2017)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Los%20Invasores%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Los_nuevos_mutantes-737308298-large.jpg",Los nuevos mutantes (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Los%20nuevos%20mutantes%20%282020%29-1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/yummy_202105/Ox%C3%ADgeno.jpg",Oxígeno
+https://archive.org/download/yummy_202105/Ox%C3%ADgeno.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.jpg",Policía en el tiempo
+https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Reminiscencia.jpg",Reminiscencia
+https://archive.org/download/94-1_20210929/Reminiscencia~1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/94-1_20210929/Respira.jpg",Respira
+https://archive.org/download/94-1_20210929/Respira~1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/robo_warriors_aka_robot_jox_3-737572793-mmed.jpg",Robot Apocalypse 2021
+https://archive.org/download/94-1_20210929/%40cesser16%20Robot%20Apocalypse%20%282021%29%201080p~1.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Settlers.jpg",Settlers
+https://archive.org/download/como-me-converti-en-superheroe/Settlers.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://img.netnaija.com/l2bHHK.jpg",Sputnik (2020)
+https://archive.org/download/i-hate-summer-2020/Sputnik%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20La%20amenaza%20fantasma.jpg",Star wars Episodio I La amenaza fantasma
+https://archive.org/download/2-comando-commando-1985/Star%20wars%20Episodio%20I%20-%20La%20amenaza%20fantasma.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://pics.filmaffinity.com/Terminator_3_La_rebeli_n_de_las_m_quinas-788040850-large.jpg",terminator 3 la revelion de las maquinas
+https://archive.org/download/yummy_202105/El%20exterminador%203.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://img.repelis.id/cover/terminator-4-la-salvacion.jpg",Terminator 4 La salvación
+https://archive.org/download/yummy_202105/Terminator%204%2C%20La%20salvaci%C3%B3n.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://i.pinimg.com/originals/ba/ca/a6/bacaa601e4ccdc41ae840f16376c44b6.jpg",terminator 5
+https://archive.org/download/yummy_202105/El%20exterminador%205.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poster-terminator-destino-oscuro-1567418737.jpg",terminator 6 destino oscuro
+https://archive.org/download/yummy_202105/El%20exterminador%206%2C%20destino%20oscuro.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Time%20Trap.jpg",Time Trap
+https://archive.org/download/2-comando-commando-1985/Time%20Trap.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.jpg",Ultra Galaxy
+https://archive.org/download/2-comando-commando-1985/Ultra%20Galaxy%20Fight%2C%20New%20Generation%20Heroes.mp4
+#EXTINF:-1 group-title="VOD CIENCIA FICCIÓN" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.jpg",Una odisea del espacio
+https://archive.org/download/como-me-converti-en-superheroe/2001%2C%20Una%20odisea%20del%20espacio.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.jpg",Al diablo con el diablo
+https://archive.org/download/como-me-converti-en-superheroe/Al%20diablo%20con%20el%20diablo.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://2.bp.blogspot.com/-iK3_TBKjHfs/VavGRM8r4SI/AAAAAAAABlk/dBhezko9Sgg/s400/need-love-film.jpg",All You Need Is Love (2009)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20All%20You%20Need%20Is%20Love%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w500/ov1sd4gvHpoVheHuJHCXJjadeIT.jpg",American Pie Las chicas mandan (2020)
+https://archive.org/download/wendy-2020_202012/American%20Pie%20Las%20chicas%20mandan%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Anacleto_Agente_secreto-863043600-large.jpg",Anacleto agente secreto (2015)
+https://archive.org/download/i-hate-summer-2020/Anacleto%20agente%20secreto%20%282015%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Re_cambio_de_princesa-598509233-large.jpg",cambio de princesa (2020)
+https://archive.org/download/i-hate-summer-2020/%28Re%29cambio%20de%20princesa%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://i.imgur.com/NJjrOcC.png",Chichipatos ¡que´ chimba de Navidad! (2020)
+https://archive.org/download/i-hate-summer-2020/Chichipatos%20%C2%A1que%CC%81%20chimba%20de%20Navidad%21%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/11/24/09/17/0574231.jpg",Co´mo sobrevivir en un mundo material (Kajillionaire) (2020)
+https://archive.org/download/wendy-2020_202012/Co%CC%81mo%20sobrevivir%20en%20un%20mundo%20material%20%28Kajillionaire%29%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.jpg",Como perder a un hombre en 10 días 2003
+https://archive.org/download/2-comando-commando-1985/C%C3%B3mo%20perder%20a%20un%20hombre%20en%2010%20d%C3%ADas%20%282003%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://www.covercaratulas.com/ode/mini_mini/carteles-31034.jpg",Como pez fuera del agua (2017)
+https://archive.org/download/animal-crackers-2017_202101/Como%20pez%20fuera%20del%20agua%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.jpg",Confesiones de una chica invisible
+https://archive.org/download/94-1_20210929/Confesiones%20de%20una%20chica%20invisible.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://es.web.img2.acsta.net/pictures/20/08/19/18/30/5694896.jpg",Corazo´n loco (2020)
+https://archive.org/download/wendy-2020_202012/Corazo%CC%81n%20loco%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/De%20Roma%20con%20amor.jpg",De Roma con amor
+https://archive.org/download/yummy_202105/De%20Roma%20con%20amor.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/De%20vuelta%20a%20casa%20Un%20viaje%20incre%C3%ADble.jpg",De vuelta a casa Un viaje increíble
+https://archive.org/download/yummy_202105/De%20vuelta%20a%20casa%20Un%20viaje%20incre%C3%ADble.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://openpelis.net/imagenes/pelis/2019-08-25-5428700081.jpg",Desnudo (2017)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Desnudo%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.jpg",Despues de ti 2021
+https://archive.org/download/2-comando-commando-1985/Despu%C3%A9s%20de%20ti%20%282021%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.jpg",Después la Loca soy Yo
+https://archive.org/download/2-comando-commando-1985/-%20Despu%C3%A9s%20la%20Loca%20soy%20Yo.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.jpg",Dos sinverguenzas
+https://archive.org/download/2-comando-commando-1985/Dos%20sinverg%C3%BCenzas.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/El_club_de_los_idealistas-767632998-large.jpg",El Club de los Idealistas (2020)
+https://archive.org/download/wendy-2020_202012/El%20Club%20de%20los%20Idealistas%20%282020%29-1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20El%20d%C3%ADa%20de%20la%20novia.jpg",El día de la novia (2017
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20d%C3%ADa%20de%20la%20novia%20%282017%28%20720p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20El%20hijo%20del%20novio.jpg",El hijo del novio
+https://archive.org/download/yummy_202105/-%20El%20hijo%20del%20novio.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/cover_290x414/public/media/image/2020/09/magnifico-ivan-2062829.jpg?itok=Z8AB4vYg",El magni´fico Iva´n (2020)
+https://archive.org/download/wendy-2020_202012/El%20magni%CC%81fico%20Iva%CC%81n%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/le_prince_oublie-172739671-large.jpg",El pri´ncipe olvidado (2020)
+https://archive.org/download/animal-crackers-2017_202101/El%20pri%CC%81ncipe%20olvidado%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6183_imagen__.jpg",El rey del sapo (2019)
+https://archive.org/download/i-hate-summer-2020/El%20rey%20del%20sapo%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDc1ODVjNzctOWEwYS00YWQ3LWJlZjAtZDQyMTQ0NTQ0ZWUzXkEyXkFqcGdeQXVyMzAzMzkzNTU@._V1_UY1200_CR135,0,630,1200_AL_.jpg",El testamento de la abuela (2020)
+https://archive.org/download/wendy-2020_202012/El%20testamento%20de%20la%20abuela%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Est%C3%A1ndar.jpg",Estándar
+https://archive.org/download/yummy_202105/Est%C3%A1ndar.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w500/eiVY4kKpbo1f7wyNubgJX5ILpxg.jpg",Fantasmas a Mogollon 2 Mi amiga fantasmago rica (2014)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Fantasmas%20a%20Mogollo%CC%81n%202%20Mi%20amiga%20fantasmago%CC%81rica%20%282014%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.jpg",Funny People 2009
+https://archive.org/download/2-comando-commando-1985/Funny%20People%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2NDc0MmEtMTJhOS00NjU3LWJjMDctMzYzZTY3MjUxNTFjXkEyXkFqcGdeQXVyMTk1NzUwMA@@._V1_.jpg",Glass Houses (2020)
+https://archive.org/download/wendy-2020_202012/Glass%20Houses%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg",Harpoon (2019)
+https://archive.org/download/wendy-2020_202012/Harpoon%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/High%20School%20Musical%202.jpg",High School Musical 2
+https://archive.org/download/yummy_202105/High%20School%20Musical%202.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/i_believe-800864213-mmed.jpg",I Believe (2017)
+https://archive.org/download/animal-crackers-2017_202101/I%20Believe%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q5ZDdmZWItMmNiYi00MjU5LThmOTAtZDU5N2ZhYmM1NDAzXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_UY268_CR3,0,182,268_AL_.jpg",I Hate Summer (2020)
+https://archive.org/download/i-hate-summer-2020/I%20Hate%20Summer%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Jack%20y%20las%20habichuelas%20m%C3%A1gicas.jpg",Jack y las habichuelas mágicas
+https://archive.org/download/como-me-converti-en-superheroe/Jack%20y%20las%20habichuelas%20m%C3%A1gicas.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.jpg",Jojo Rabbit
+https://archive.org/download/2-comando-commando-1985/Jojo%20Rabbit.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_15-37-40.jpg",Juerga de mamis (2017)
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Juerga%20de%20mamis%20%282017%29%201080p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-09-07-0806610199.jpg",La Casa de Huespedes (2020)
+https://archive.org/download/wendy-2020_202012/La%20Casa%20de%20Hue%CC%81spedes%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="http://blue-subtitle.com/wp-content/uploads/2020/11/Happiest-Season-2020-185x268.jpg",La estacio´n de la felicidad (2020)
+https://archive.org/download/i-hate-summer-2020/La%20estacio%CC%81n%20de%20la%20felicidad%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/La_incre_ble_historia_de_la_Isla_de_las_Rosas-391565788-large.jpg",La increible historia de la Isla de las Rosas (2020)
+https://archive.org/download/wendy-2020_202012/La%20increi%CC%81ble%20historia%20de%20la%20Isla%20de%20las%20Rosas%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.jpg",La magia de la isla
+https://archive.org/download/como-me-converti-en-superheroe/La%20magia%20de%20la%20isla.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/La_nochebuena_es_mi_condena-407360379-large.jpg",La nochebuena es mi condena (2020)
+https://archive.org/download/wendy-2020_202012/La%20nochebuena%20es%20mi%20condena%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://www.proimagenescolombia.com/photos/57150_6366_imagen__.png",La pachanga (2019)
+https://archive.org/download/i-hate-summer-2020/La%20pachanga%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Locas%20por%20el%20cambio.jpg",Locas por el cambio
+https://archive.org/download/como-me-converti-en-superheroe/Locas%20por%20el%20cambio.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Los%20Desorientados.jpg",Los Desorientados
+https://archive.org/download/yummy_202105/Los%20Desorientados.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20fantasmas%20de%20mis%20exnovias.jpg",Los fantasmas de mis exnovias
+https://archive.org/download/yummy_202105/Los%20fantasmas%20de%20mis%20exnovias.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Los%20sorprendentes%20dobermans.jpg",Los impresionantes Dobermans
+https://archive.org/download/94-1_20210929/Los%20sorprendentes%20dobermans.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Los%20trapos%20sucios%20se%20lavan%20en%20casa.jpg",Los trapos sucios se lavan en casa
+https://archive.org/download/como-me-converti-en-superheroe/Los%20trapos%20sucios%20se%20lavan%20en%20casa.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Ludo-813248419-mmed.jpg",Ludo (2020)
+https://archive.org/download/wendy-2020_202012/Ludo%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://elifilms.net/wp-content/uploads/2020/04/mi-abuelo-es-un-peligro.jpg",Mi Abuelo es un Peligro 2016 108
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Mi%20Abuelo%20es%20un%20Peligro%20%282016%29%201080p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Miradas%20Que%20Matan.jpg",Miradas Que Matan
+https://archive.org/download/94-1_20210929/Miradas%20Que%20Matan.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20Mr.%20Bean.jpg",Mr. Bean
+https://archive.org/download/yummy_202105/-%20Mr.%20Bean.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Mr.%20Bean%202.jpg",Mr. Bean 2
+https://archive.org/download/yummy_202105/Mr.%20Bean%202.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/No%2C%20porque%20me%20enamoro.jpg",No porque me enamoro
+https://archive.org/download/94-1_20210929/No%2C%20porque%20me%20enamoro.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Noche%20de%20estreno.jpg",Noche de estreno (2016)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Noche%20de%20estreno%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Operaci_n_Feliz_Navidad-595979134-large.jpg",Operacion Feliz Navidad (2020)
+https://archive.org/download/wendy-2020_202012/Operacio%CC%81n%20Feliz%20Navidad%20%282020%29-1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTkyMzRjODAtZDY4NS00NGQ3LTgyNjEtYTAxNWEyM2QxMzIzXkEyXkFqcGdeQXVyMTE5OTg3NzQy._V1_.jpg",Os Espetaculares (2020)
+https://archive.org/download/wendy-2020_202012/Os%20Espetaculares%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Pelotas%20en%20juego.jpg",Pelotas en juego
+https://archive.org/download/como-me-converti-en-superheroe/Pelotas%20en%20juego.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Regreso%20Del%20Todopoderoso.jpg",Regreso Del Todopoderoso
+https://archive.org/download/94-1_20210929/Regreso%20Del%20Todopoderoso.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSr_55I5amQytKvjTjt-jeFdGao_aGBiShA&usqp=CAU.JPG",Se busca papa´ (2020)
+https://archive.org/download/wendy-2020_202012/Se%20busca%20papa%CC%81%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Sentadas_en_el_umbral-275093174-large.jpg",Sentadas en el umbral (2020)
+https://archive.org/download/wendy-2020_202012/Sentadas%20en%20el%20umbral%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Siete%20psic%C3%B3patas%20y%20un%20perro.jpg",Siete psicópatas y un perro 108
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Siete%20psic%C3%B3patas%20y%20un%20perro%201080p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Simplemente%20Manu%20NNa.jpg",Simplemente Manu NNa
+https://archive.org/download/como-me-converti-en-superheroe/Simplemente%20Manu%20NNa.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://r2.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F056%2F960%2Fsolia-ir-alli-1.jpg&nuevoancho=150&medio=abc",Soli´a ir alli´ (2020)
+https://archive.org/download/i-hate-summer-2020/Soli%CC%81a%20ir%20alli%CC%81%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20Soltera%2C%2039.jpg",Soltera 39
+https://archive.org/download/como-me-converti-en-superheroe/-%20Soltera%2C%2039.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0YzI3NTktNjEyNC00MGVhLTlmZjEtN2NkZTcyNmQwYmQ1XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg",Spontaneous (2020)
+https://archive.org/download/wendy-2020_202012/Spontaneous%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/Stay%20Hungry.jpg",Stay Hungry
+https://archive.org/download/yummy_202105/Stay%20Hungry.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.jpg",Tenacious D la llave del destino
+https://archive.org/download/como-me-converti-en-superheroe/Tenacious%20D%20la%20llave%20del%20destino.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/The_Stand_In-828252343-large.jpg",The Stand In (2020)
+https://archive.org/download/i-hate-summer-2020/The%20Stand%20In%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNhNzk4YzMtYmQ4Ni00ZjU0LWI0YzctYjM1ZDMxNzM3MDAzXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",Think Like a Dog (2020)
+https://archive.org/download/wendy-2020_202012/Think%20Like%20a%20Dog%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/94-1_20210929/Todopoderoso.jpg",Todopoderoso
+https://archive.org/download/94-1_20210929/Todopoderoso.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/cesser-16-liga-de-la-justicia-720p/-%20Todos%20queremos%20a%20alguien.jpg",Todos Queremos a Alguien Online (2017) 1080p
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Todos%20Queremos%20a%20Alguien%20Online%20%282017%29%201080p.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.jpg",Tonto y Retonto
+https://archive.org/download/2-comando-commando-1985/Tonto%20y%20Retonto.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Enemigo%20Americano.jpg",Un Enemigo Americano
+https://archive.org/download/como-me-converti-en-superheroe/Un%20Enemigo%20Americano.jpg
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.jpg",Un papá genial
+https://archive.org/download/2-comando-commando-1985/Un%20pap%C3%A1%20genial.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/12/10/28/248825.jpg",Una noche en el museo (2006)
+https://archive.org/download/velvet-buzzsaw-2019_202012/Una%20noche%20en%20el%20museo%20%282006%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/Unpregnant-443503049-large.jpg",Unpregnant (2020)
+https://archive.org/download/i-hate-summer-2020/Unpregnant%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Viaje%20de%20chicas.jpg",Viaje de chicas
+https://archive.org/download/como-me-converti-en-superheroe/Viaje%20de%20chicas.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://pics.filmaffinity.com/work_it-145219942-large.jpg",Work It Al ritmo de los suen~os (2020)
+https://archive.org/download/wendy-2020_202012/Work%20It%20Al%20ritmo%20de%20los%20suen%CC%83os%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...%20Larry.jpg",Yo los declaro marido y... Larry
+https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...%20Larry.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Chef%20a%20domicilio.jpg",Chef a domicilio
+https://archive.org/download/mentiras-verdaderas-1/Chef%20a%20domicilio~1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Cry%20Baby%20El%20l%C3%A1grima.jpg",Cry Baby El lágrima 1990
+https://archive.org/download/mentiras-verdaderas-1/Cry%20Baby%20El%20l%C3%A1grima%201990~1.ia.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20Babysitter.jpg",El Babysitter
+https://archive.org/download/mentiras-verdaderas-1/El%20Babysitter~1.ia.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20guerra%20de%20los%20Roses.jpg",La guerra de los Roses
+https://archive.org/download/mentiras-verdaderas-1/La%20guerra%20de%20los%20Roses~1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20a%C3%B1os%20azules.jpg",Los años azules
+https://archive.org/download/mentiras-verdaderas-1/Los%20a%C3%B1os%20azules~1.mp4
+#EXTINF:-1 group-title="VOD COMEDIA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Redada%20asesina.jpg",Redada asesina
+https://archive.org/download/mentiras-verdaderas-1/Redada%20asesina~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://es.web.img3.acsta.net/pictures/19/01/16/12/25/3230288.jpg",After Aqui´ empieza todo (2019)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20Aqui%CC%81%20empieza%20todo%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/After_En_mil_pedazos-608965132-large.jpg",After En mil pedazos
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/After%20En%20mil%20pedazos.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Al%20ritmo%20del%20coraz%C3%B3n.jpg",Al ritmo del corazón
+https://archive.org/download/como-me-converti-en-superheroe/Al%20ritmo%20del%20coraz%C3%B3n.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.jpg",Alucinaciones del pasado
+https://archive.org/download/2-comando-commando-1985/-%20Alucinaciones%20del%20pasado.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_16-32-47.jpg",amigos y fiesta (2015) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20M%C3%BAsica%2C%20amigos%20y%20fiesta%20%282015%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Ammonite-340737043-large.jpg",Ammonite (2020)
+https://archive.org/download/i-hate-summer-2020/Ammonite%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Aquel%20verano.jpg",Aquel verano
+https://archive.org/download/como-me-converti-en-superheroe/Aquel%20verano.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bia%2C%20Un%20mundo%20al%20rev%C3%A9s.jpg",Bia Un mundo al revés
+https://archive.org/download/como-me-converti-en-superheroe/Bia%2C%20Un%20mundo%20al%20rev%C3%A9s.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Birds%20of%20Paradise.jpg",Birds of Paradise
+https://archive.org/download/94-1_20210929/Birds%20of%20Paradise.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-28169.jpg",Call Me by Your Name (2017)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Call%20Me%20by%20Your%20Name%20%282017%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Castillo%20de%20arena.jpg",Castillo de arena (2017) 720p
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Castillo%20de%20arena%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.jpg",Chernobyl Abyss
+https://archive.org/download/2-comando-commando-1985/Chernobyl%2C%20Abyss.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Clouds-101144232-large.jpg",Clouds (2020)
+https://archive.org/download/i-hate-summer-2020/Clouds%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Corriendo%20contra%20el%20viento.jpg",Corriendo contra el viento
+https://archive.org/download/como-me-converti-en-superheroe/Corriendo%20contra%20el%20viento.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Cowboys.jpg",Cowboys
+https://archive.org/download/como-me-converti-en-superheroe/Cowboys.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Cr_nica_de_una_tormenta-611491491-large.jpg",Cro´nica de una tormenta (2020)
+https://archive.org/download/i-hate-summer-2020/Cro%CC%81nica%20de%20una%20tormenta%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://www.openpelis.com/imagenes/pelis/minis/2020-12-23-4871425663.jpg",El amor de Sylvie (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/El%20amor%20de%20Sylvie%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20castillo%20de%20cristal.jpg",El castillo de cristal
+https://archive.org/download/como-me-converti-en-superheroe/El%20castillo%20de%20cristal.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/El%20ciudadano%20Kane.jpg",El ciudadano Kane
+https://archive.org/download/yummy_202105/El%20ciudadano%20Kane.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20club%20de%20los%20poetas%20muertos.jpg",El club de los poetas muertos
+https://archive.org/download/como-me-converti-en-superheroe/El%20club%20de%20los%20poetas%20muertos.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/El_cuaderno_de_Tomy-471893905-large.jpg",El cuaderno de Tomy (2020)
+https://archive.org/download/i-hate-summer-2020/El%20cuaderno%20de%20Tomy%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/El%20Estornino%202021.jpg",El Estornino 2021
+https://archive.org/download/94-1_20210929/El%20Estornino%202021.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/El_faro_de_las_orcas-435033061-large.jpg",El faro de las orcas (2016)
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20faro%20de%20las%20orcas%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/El_juicio_de_los_7_de_Chicago-241324585-large.jpg",El juicio de los 7 de Chicago (2020)
+https://archive.org/download/i-hate-summer-2020/El%20juicio%20de%20los%207%20de%20Chicago%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20orqu%C3%ADdeas.jpg",El ladrón de orquídeas
+https://archive.org/download/94-1_20210929/El%20ladr%C3%B3n%20de%20Rodeo~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.jpg",El maquinista  The Machinist
+https://archive.org/download/2-comando-commando-1985/El%20maquinista%20-%20The%20Machinist.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20mundo%20que%20viene.jpg",El mundo que viene
+https://archive.org/download/como-me-converti-en-superheroe/El%20mundo%20que%20viene.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20padre.jpg",El padre
+https://archive.org/download/2-comando-commando-1985/-%20El%20padre.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20precio%20de%20la%20inocencia.jpg",El precio de la inocencia
+https://archive.org/download/como-me-converti-en-superheroe/El%20precio%20de%20la%20inocencia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://images.moviefit.me/t/b/255905-the-christmas-gift.webp",El regalo de Navidad (2020)
+https://archive.org/download/i-hate-summer-2020/El%20regalo%20de%20Navidad%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_01-35-09.jpg",El teniente otomano (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20El%20teniente%20otomano%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Emperor-190871922-large.jpg",Emperor (2020)
+https://archive.org/download/i-hate-summer-2020/Emperor%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://lh3.googleusercontent.com/proxy/HMk4_hwqNhGaPyvV_5me5TgEdxUf_zs99exhDHLmR9OmmvBB7DINfzHilECE6aVIukGH6MuOg6UR0LHvMb9XFkmbfbgxdlop9YILomlXjETDHXyFMU55lxgblZZhfi-uKK7j=w1200-h630-p-k-no-nu",En algún lugar de la memoria (2007) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20En%20alg%C3%BAn%20lugar%20de%20la%20memoria%20%282007%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.jpg",Erna i krig
+https://archive.org/download/2-comando-commando-1985/Erna%20i%20krig.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Estanislao-219509656-large.jpg",Estanislao
+https://archive.org/download/2-comando-commando-1985/Estanislao.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.jpg",Eterno resplandor de una mente sin recuerdos
+https://archive.org/download/como-me-converti-en-superheroe/Eterno%20resplandor%20de%20una%20mente%20sin%20recuerdos.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/Ferry%20%282021%29.jpg",Ferry (2021)
+https://archive.org/download/yummy_202105/Ferry%20%282021%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Flores_en_el_tico_2_P_talos_al_viento_TV-780070215-large.jpg",Flores en el atico  Petalos al viento TV 2014
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20%C3%A1tico%20%28TV%29%20%282014%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Si_hubiera_espinas_TV-370227173-mmed.jpg",Flores en el atico 2 Petalos al viento TV 2014
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20%C3%A1tico%202%20P%C3%A9talos%20al%20viento%20%28TV%29%20%282014%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://i.pinimg.com/564x/f5/7a/da/f57ada3cbeebc5971cc601afe2139efe.jpg",Flores en el atico 3 Si hubiera espinas TV 2015
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%203%20Si%20hubiera%20espinas%20TV%202015.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.jpg",Flores en el atico 4 Semillas del ayer TV 2015
+https://archive.org/download/2-comando-commando-1985/Flores%20en%20el%20atico%204%20Semillas%20del%20ayer%20TV%202015.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Forever_First_Love-102990274-mmed.jpg",Forever First Love (2020)
+https://archive.org/download/i-hate-summer-2020/Forever%20First%20Love%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Frankie-757077153-large.jpg",Frankie (2019) 1080p
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Frankie%20%282019%29%201080p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/French%20Exit.jpg",French Exit
+https://archive.org/download/2-comando-commando-1985/French%20Exit.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.jpg",Historia americana X
+https://archive.org/download/2-comando-commando-1985/Historia%20americana%20X.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Hombre%20de%20familia.jpg",Hombre de familia
+https://archive.org/download/94-1_20210929/Hombre%20de%20familia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.jpg",Hooligans  Green street hooligans 2005
+https://archive.org/download/2-comando-commando-1985/Hooligans%20-%20Green%20street%20hooligans%20%282005%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.jpg",Jacqueline Sauvage víctima o culpable
+https://archive.org/download/2-comando-commando-1985/Jacqueline%20Sauvage%20v%C3%ADctima%20o%20culpable.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Je%20Suis%20Karl.jpg",Je Suis Karl
+https://archive.org/download/94-1_20210929/Je%20Suis%20Karl.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/citation-235387619-large.jpg",La citacio´n (2020)
+https://archive.org/download/i-hate-summer-2020/La%20citacio%CC%81n%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20distancia.jpg",La distancia
+https://archive.org/download/como-me-converti-en-superheroe/La%20distancia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_dosis-802241086-large.jpg",La dosis (2020)
+https://archive.org/download/i-hate-summer-2020/La%20dosis%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/the_broken_hearts_gallery-972949574-large.jpg",La galeri´a de los corazones rotos (2020)
+https://archive.org/download/i-hate-summer-2020/La%20galeri%CC%81a%20de%20los%20corazones%20rotos%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWX96FC5/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",La inspiradora historia de Vinny Pazienza
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16_La_inspiradora_historia_de_Vinny_Pazienza_2016_720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_madre_del_blues-906078080-large.jpg",La madre del blues (2020)
+https://archive.org/download/i-hate-summer-2020/La%20madre%20del%20blues%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Moonlight_in_Vermont_TV-669360202-large.jpg",La promesa (2016) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20La%20promesa%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.jpg",La teniente O Neil  1997
+https://archive.org/download/2-comando-commando-1985/La%20teniente%20O%27Neil%20%201997.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/-%20La%20%C3%BAltima%20primavera.jpg",La última primavera
+https://archive.org/download/como-me-converti-en-superheroe/-%20La%20%C3%BAltima%20primavera.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_casa_del_caracol-235255571-large.jpg",La vampira de Barcelona (2020)
+https://archive.org/download/94-1_20210929/La%20casa%20del%20caracol~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/La_vida_ante_s-916636073-large.jpg",La vida por delante (2020)
+https://archive.org/download/i-hate-summer-2020/La%20vida%20por%20delante%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/-%20Las%20Legiones%20Emergentes.jpg",Las Legiones Emergentes
+https://archive.org/download/yummy_202105/-%20Las%20Legiones%20Emergentes.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/Los%20Meyerowitz%20La%20familia%20no%20se%20elige%20Historias%20nuevas%20y%20selectas.jpg",Los Meyerowitz (2017) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Los%20Meyerowitz%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Magic_Camp-668595567-large.jpg",Magic Camp (2020)
+https://archive.org/download/wendy-2020_202012/Magic%20Camp%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/Mainstream.jpg",Mainstream
+https://archive.org/download/yummy_202105/Mainstream.jpg
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Mank-722370780-large.jpg",Mank (2020)
+https://archive.org/download/i-hate-summer-2020/Mank%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/20/03/04/15/09/2075899.jpg",Mano de obra (2020)
+https://archive.org/download/i-hate-summer-2020/Mano%20de%20obra%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/M_quina_de_guerra-236033463-large.jpg",Máquina de guerra (2017) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20M%C3%A1quina%20de%20guerra%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.jpg",Más mentes peligrosas
+https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/qaHcvVfMdWkBJS0zjnZfAII0nEu.jpg",Medio hermanos (2020)
+https://archive.org/download/i-hate-summer-2020/Medio%20hermanos%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/94-1_20210929/Mi%20Gran%20Despedida.jpg",Mi Gran Despedida
+https://archive.org/download/94-1_20210929/Mi%20Gran%20Despedida.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/uncle_frank-285264269-large.jpg",Mi ti´o Frank (2020)
+https://archive.org/download/i-hate-summer-2020/Mi%20ti%CC%81o%20Frank%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Nido%20de%20v%C3%ADboras.jpg",Nido de víboras
+https://archive.org/download/como-me-converti-en-superheroe/Nido%20de%20v%C3%ADboras.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_05-58-00.jpg",Nieve negra (2017) 1080p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Nieve%20negra%20%282017%29%201080p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://www.ecartelera.com/carteles/6800/6873/002_m.jpg",Paranormal Activity Los sen~alados (2014)
+https://archive.org/download/i-hate-summer-2020/Paranormal%20Activity%20Los%20sen%CC%83alados%20%282014%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://img.repelis.id/cover/pasion-del-corazon-1582402204.jpg",Pasio´n del corazo´n (2015)
+https://archive.org/download/i-hate-summer-2020/Pasio%CC%81n%20del%20corazo%CC%81n%20%282015%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Powder_Pura_energ_a-401769251-large.jpg",Powder 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Powder%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Ricochet.jpg",Ricochet
+https://archive.org/download/2-comando-commando-1985/Ricochet.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Riding_with_Sugar-415283834-large.jpg",Riding with Sugar (2020)
+https://archive.org/download/i-hate-summer-2020/Riding%20with%20Sugar%20%282020%29-1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Sal%C3%B3%2C%20o%20los%20120%20d%C3%ADas%20de%20Sodoma.jpg",Saló o los 120 días de Sodoma
+https://archive.org/download/como-me-converti-en-superheroe/Sal%C3%B3%2C%20o%20los%20120%20d%C3%ADas%20de%20Sodoma.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_08-01-06.jpg",Sandy Wexler (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sandy%20Wexler%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/yummy_202105/-%20Secreto%20en%20la%20monta%C3%B1a.jpg",Secreto en la montaña
+https://archive.org/download/yummy_202105/-%20Secreto%20en%20la%20monta%C3%B1a.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_07-12-58.jpg",Si no despierto (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Si%20no%20despierto%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.jpg",Sitting in Limbo
+https://archive.org/download/2-comando-commando-1985/Sitting%20in%20Limbo.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/strange_weather-926814484-large.jpg",Strange Weather (2016) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Strange%20Weather%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.jpg",The Doors
+https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Maid.jpg",The Maid
+https://archive.org/download/2-comando-commando-1985/The%20Maid.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/The_Wrong_Mommy_TV-727134167-large.jpg",The Wrong Mommy (2019)
+https://archive.org/download/wendy-2020_202012/The%20Wrong%20Mommy%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Un%20Milagro%20Inesperado.jpg",Un Milagro Inesperado
+https://archive.org/download/como-me-converti-en-superheroe/Un%20Milagro%20Inesperado.jpg
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Un_mundo_normal-293948077-large.jpg",Un mundo normal (2020)
+https://archive.org/download/i-hate-summer-2020/Un%20mundo%20normal%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Hillbilly_una_eleg_a_rural-757589160-large.jpg",una elegi´a rural (2020)
+https://archive.org/download/i-hate-summer-2020/Hillbilly%2C%20una%20elegi%CC%81a%20rural%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.jpg",Una vida sin amor
+https://archive.org/download/2-comando-commando-1985/Una%20vida%20sin%20amor.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_06-35-41.jpg",Viene de noche (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Viene%20de%20noche%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Wendy-985872075-mmed.jpg",Wendy (2020)
+https://archive.org/download/wendy-2020_202012/Wendy%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhOTdiYzAtMDJiYS00NDA0LWJmN2EtODljMDJmNDMxZDk3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",Wild Mountain Thyme (2020)
+https://archive.org/download/i-hate-summer-2020/Wild%20Mountain%20Thyme%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://ia601406.us.archive.org/6/items/94-1_20210929/Y%20al%20s%C3%A9ptimo%20d%C3%ADa.jpg",Y al séptimo día
+https://archive.org/download/94-1_20210929/Y%20al%20s%C3%A9ptimo%20d%C3%ADa~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://pics.filmaffinity.com/Zombi_Child-180737258-large.jpg",Zombi Child (2019)
+https://archive.org/download/wendy-2020_202012/Zombi%20Child%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Cr%C3%B3nica%20de%20una%20tormenta.jpg",Crónica de una tormenta
+https://archive.org/download/mentiras-verdaderas-1/Cr%C3%B3nica%20de%20una%20tormenta~1.ia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Desaparecidas.jpg",Desaparecidas
+https://archive.org/download/mentiras-verdaderas-1/Desaparecidas~1.ia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Dif%C3%ADcil%20de%20tragar.jpg",Difícil de tragar
+https://archive.org/download/mentiras-verdaderas-1/Dif%C3%ADcil%20de%20tragar~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Disturbio.jpg",Disturbio
+https://archive.org/download/mentiras-verdaderas-1/Disturbio~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Los%20santos%20de%20la%20mafia.jpg",Los santos de la mafia
+https://archive.org/download/mentiras-verdaderas-1/Los%20santos%20de%20la%20mafia~1.ia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Medidas%20extremas.jpg",Medidas extremas
+https://archive.org/download/mentiras-verdaderas-1/Medidas%20extremas~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Milagro%20en%20octubre.jpg",Milagro en octubre
+https://archive.org/download/mentiras-verdaderas-1/Milagro%20en%20octubre~1.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Millonarios.jpg",Millonarios
+https://archive.org/download/mentiras-verdaderas-1/Millonarios~1.ia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/The%20Space%20Between.jpg",The Space Between
+https://archive.org/download/mentiras-verdaderas-1/The%20Space%20Between~1.ia.mp4
+#EXTINF:-1 group-title="VOD DRAMA" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Women.jpg",Women
+https://archive.org/download/mentiras-verdaderas-1/Women.jpg
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/mSGqJZRIyvQkgg69BI5wTI2n9sm.jpg",Agatha y la verdad del crimen (2018)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Agatha%20y%20la%20verdad%20del%20crimen%20%282018%29.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://www1.naijgreen.com/wp-content/uploads/2020/06/Coherence-2013-BluRay-480p720p.jpg",Coherence (2013)
+https://archive.org/download/wendy-2020_202012/Coherence%20%282013%29.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Doble%20de%20cuerpo.jpg",Doble de cuerpo
+https://archive.org/download/2-comando-commando-1985/-%20Doble%20de%20cuerpo.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/cXYOGnUPM6wUezGA49JUIlpS3uQ.jpg",Mi Padrastro Malvado (2019)
+https://archive.org/download/wendy-2020_202012/Mi%20Padrastro%20Malvado%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://play-lh.googleusercontent.com/ivRhcnmwgfsjXeDZbbOhYEU0MA0JFEdmJtl0pBjYc8KlG40YFzSH4fkyozH5v7RLtPDI",Paranormal Activity (2009)
+https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://es.web.img3.acsta.net/pictures/13/12/13/10/53/157876.jpg",Paranormal Activity Los sen~alados (2014)
+https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Los%20sen%CC%83alados%20%282014%29.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWViZWNmMGMtZmQzMS00MzEwLWI5ODAtNjUxY2ZjODBkNzlhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",Paranormal Activity Tokyo Night (2010)
+https://archive.org/download/wendy-2020_202012/Paranormal%20Activity%20Tokyo%20Night%20%282010%29.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/94-1_20210929/The%20Show.jpg",The Show
+https://archive.org/download/94-1_20210929/The%20Show~1.mp4
+#EXTINF:-1 group-title="VOD SUSPENSO" tvg-logo="https://archive.org/download/94-1_20210929/Viejos.jpg",Viejos.jpg
+https://archive.org/download/94-1_20210929/Viejos.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYyNzlhZGUtMjMyZC00NWRjLTg5MjQtZDRjNzZlYmYyM2FkXkEyXkFqcGdeQXVyNDEzNzMxMA@@._V1_.jpg",A Feral World (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/A%20Feral%20World%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://cartelesmix.es/cartelesdecine/wp-content/uploads/2017/12/algunasvecesellosvuelven91002.jpg",Algunas veces ellos vuelven (1991)
+https://archive.org/download/wendy-2020/Algunas%20veces%20ellos%20vuelven%20%281991%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Alta_tensi_n-258012416-large.jpg",Alta tensio´n (2003)
+https://archive.org/download/i-hate-summer-2020/Alta%20tensio%CC%81n%20%282003%29-1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Amityville%20El%20despertar.jpg",Amityville El despertar
+https://archive.org/download/94-1_20210929/Amityville%20El%20despertar.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Anatom_a-910433213-large.jpg",Anatomi´a (2000)
+https://archive.org/download/wendy-2020_202012/Anatomi%CC%81a%20%282000%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Anatom_a_2-669670489-large.jpg",Anatomia 2 (2003)
+https://archive.org/download/wendy-2020_202012/Anatomi%CC%81a%202%20%282003%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://images.squarespace-cdn.com/content/v1/511eea22e4b06642027a9a99/1600835095406-J2SG1OJCLCXVMVBB4CSH/ke17ZwdGBToddI8pDm48kObW5L834DLeOoedDyYNM0VZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE0HBlqxyJ0FKkj7k-nCdscI18NqvNAsmDs0Oklw-0igruvPknf91-IP_XxpMjX9og/image-asset.jpeg",Antebellum (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Antebellum%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RhMjM3ODMtOWU1MC00ODE4LWI1NTktYmY1MzZiOWVkZjZkXkEyXkFqcGdeQXVyNzc0MTgzMzU@._V1_.jpg",Asylum Twisted Horror & Fantasy Tales (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Asylum%20Twisted%20Horror%20%26%20Fantasy%20Tales%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://www.miradetodo.fun/movies/static/img/original/8m5HTXzwewlfXhtZtLlLts53YTW.jpg",Baba Yaga El regreso del demonio (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Baba%20Yaga%20El%20regreso%20del%20demonio%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://3.bp.blogspot.com/-pgY7PgWpN-k/UtdwNdkKBnI/AAAAAAAAFxM/TSeSNy9hbTs/s1600/front.jpg",Carrie (2002)
+https://archive.org/download/wendy-2020_202012/Carrie%20%282002%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://www.alohacriticon.com/wp-content/uploads/2020/10/casa-ajena-his-house-netflix-poster.jpg",Casa ajena (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Casa%20ajena%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://i1.wp.com/www.soloplay.ng/wp-content/uploads/2020/11/Movie-come-play.jpeg?resize=720%2C1080&ssl=1",Come Play (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Come%20Play%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Los%20viajeros%20de%20la%20noche.jpg",Cuando cae la oscuridad
+https://archive.org/download/94-1_20210929/Los%20viajeros%20de%20la%20noche~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Cuidado_con_lo_que_deseas-218046821-large.jpg",Cuidado con lo que deseas 2020
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Cuidado%20con%20lo%20que%20deseas%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/Diavlo.jpg",Diavlo
+https://archive.org/download/yummy_202105/Diavlo.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/El%20Aro%20Resurrecci%C3%B3n.jpg",El Aro Resurrección
+https://archive.org/download/94-1_20210929/El%20Aro%20Resurrecci%C3%B3n~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.jpg",El exorcismo de Carmen Farías
+https://archive.org/download/2-comando-commando-1985/El%20exorcismo%20de%20Carmen%20Far%C3%ADas.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/El_halloween_de_Hubie-100843653-mmed.jpg",El Halloween de Hubie (2020)
+https://archive.org/download/i-hate-summer-2020/El%20Halloween%20de%20Hubie%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/viy_3d-656915198-large.jpg",el imperio prohibido (2014)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Transilvania%2C%20el%20imperio%20prohibido%20%282014%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.jpg",Escape to the Cove
+https://archive.org/download/2-comando-commando-1985/Escape%20to%20the%20Cove.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Este_cuerpo_me_sienta_de_muerte-347088392-large.jpg",Este cuerpo me sienta de muerte (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Este%20cuerpo%20me%20sienta%20de%20muerte%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Fat_Ass_Zombies-343334670-large.jpg",Fat Ass Zombies (2020)
+https://archive.org/download/wendy-2020_202012/Fat%20Ass%20Zombies%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Freddy%20contra%20Jason.jpg",Freddy contra Jason (2003) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Freddy%20contra%20Jason%20%282003%29%201080p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://image.tmdb.org/t/p/w500/yerfXP5rkPOhQVWVJhGPt399kLv.jpg",Harpoon (2019)
+https://archive.org/download/i-hate-summer-2020/Harpoon%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.jpg",In The Earth
+https://archive.org/download/2-comando-commando-1985/In%20The%20Earth.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20It%20%20El%20payaso%20asesino%202.jpg",It (2017) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20It%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/It%202.jpg",It Capítulo dos (2019) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20It%20Cap%C3%ADtulo%20dos%20%282019%29%20720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/J_venes_y_brujas-806031166-large.jpg",Jo´venes y brujas (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw/Jo%CC%81venes%20y%20brujas%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.jpg",Jovenes y brujas
+https://archive.org/download/2-comando-commando-1985/-%20J%C3%B3venes%20y%20brujas.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-12-02-4346296129.jpg",Juguetes del Terror (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Juguetes%20del%20Terror%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/89/57/73/20056052.jpg",La cosecha (2007)
+https://archive.org/download/wendy-2020_202012/La%20cosecha%20%282007%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://es.web.img2.acsta.net/pictures/19/09/16/22/57/1180405.jpg",La Llorona (2020)
+https://archive.org/download/wendy-2020_202012/La%20Llorona%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/La_noche_de_los_muertos_vivientes-404634659-large.jpg",La noche de los muertos vivientes (1990)
+https://archive.org/download/wendy-2020_202012/La%20noche%20de%20los%20muertos%20vivientes%20%281990%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/the_old_ways-698410071-mmed.jpg",Las formas antiguas
+https://archive.org/download/94-1_20210929/%40cesser16%20Las%20formas%20antiguas%20%282020%29%201080p~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/il_legame-609630553-large.jpg",Lazos malditos (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Lazos%20malditos%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F007%2F403%2Flos-chicos-del-maiz-1.jpg&nuevoancho=690&medio=abc",Los chicos del mai´z (1984)
+https://archive.org/download/wendy-2020_202012/Los%20chicos%20del%20mai%CC%81z%20%281984%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Maligno.jpg",Maligno
+https://archive.org/download/94-1_20210929/Maligno.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/w_lesie_dzis_nie_zasnie_nikt-412797928-large.jpg",Nadie duerme en el bosque esta noche (2020)
+https://archive.org/download/la-navidad-magica-de-los-jangle-2020_20201213/Nadie%20duerme%20en%20el%20bosque%20esta%20noche%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/-%20Paredes%20siniestras.jpg",Paredes siniestras
+https://archive.org/download/yummy_202105/-%20Paredes%20siniestras.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno.jpg",Pesadilla en la calle del infierno (1984) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%20%281984%29%201080p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F020%2F043%2Fpesadilla-en-elm-street-5-1.jpg&nuevoancho=620&medio=abc",Pesadilla en la calle del infierno 5 (1989) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%205%20%281989%29%20720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Pesadilla_en_la_calle_del_infierno_6_La_muerte_de_Freddy-934501006-large.jpg",Pesadilla en la calle del infierno 6 (1991) 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%206%20%281991%29%201080p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://img.repelis.id/cover/la-nueva-pesadilla-de-wes-craven.jpg",Pesadilla en la calle del infierno 7 (1994) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%207%20%281994%29%20720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia601500.us.archive.org/30/items/cesser-16-liga-de-la-justicia-720p/-%20Pesadilla%20en%20la%20calle%20del%20infierno%208.jpg",Pesadilla en la calle del infierno 8 (2010) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Pesadilla%20en%20la%20calle%20del%20infierno%208%20%282010%29%20720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Pipeline.jpg",Pipeline
+https://archive.org/download/2-comando-commando-1985/Pipeline.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.jpg",Prueba de fe
+https://archive.org/download/yummy_202105/-%20Prueba%20de%20fe.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Re-sonator.jpg",Re-sonator
+https://archive.org/download/94-1_20210929/Re-sonator~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/ReVisitant.jpg",ReVisitant
+https://archive.org/download/2-comando-commando-1985/ReVisitant.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BODc0NDEyNWMtYmQ1OS00MWVhLThjZjctMDNhMWE1MDQyNmVhXkEyXkFqcGdeQXVyMjI4NDI5Njc@._V1_.jpg",Scream at the Devil (2015)
+https://archive.org/download/wendy-2020_202012/Scream%20at%20the%20Devil%20%282015%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Separation.jpg",Separation
+https://archive.org/download/2-comando-commando-1985/Separation.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Sin_origen-984633558-large.jpg",Sin Origen (2020)
+https://archive.org/download/wendy-2020_202012/Sin%20Origen%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_02-20-15.jpg",Sinister (2012) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Sinister%20%282012%29%20720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.jpg",Smiley Face Killers
+https://archive.org/download/yummy_202105/Smiley%20Face%20Killers.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.jpg",solo en América
+https://archive.org/download/94-1_20210929/Barry%20Seal%2C%20solo%20en%20Am%C3%A9rica.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://ia801505.us.archive.org/18/items/cesser-16-el-santo-2017-720p/photo_2020-09-22_17-59-26.jpg",Super Dark Times (2017) 720p.mp4
+https://archive.org/download/cesser-16-el-santo-2017-720p/%40cesser16%20Super%20Dark%20Times%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://img.repelis.id/cover/into-the-dark-the-current-occupant-1603984211.jpg",The Current Occupant (2020)
+https://archive.org/download/wendy-2020_202012/The%20Current%20Occupant%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/The%20Darkness.jpg",The Darkness
+https://archive.org/download/2-comando-commando-1985/The%20Darkness.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/The_Domestics-956087918-large.jpg",The Domestics (2018)
+https://archive.org/download/velvet-buzzsaw-2019_202012/The%20Domestics%20%282018%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://i0.wp.com/o2tvseriesz.com/wp-content/uploads/2020/04/The-Haunting-of-Alcatraz-2020-Full-Movie-Download.jpg?fit=400%2C600&ssl=1",The Haunting of Alcatraz (2020)
+https://archive.org/download/i-hate-summer-2020/The%20Haunting%20of%20Alcatraz%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://parecidas.com/img_es/movie/thumb/75/46916.jpg",The Sputnik (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/Sputnik%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Vampiros_contra_el_Bronx-665936619-large.jpg",Vampiros contra el Bronx (2020)
+https://archive.org/download/wendy-2020_202012/Vampiros%20contra%20el%20Bronx%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/2-comando-commando-1985/Vigilados.jpg",Vigilados
+https://archive.org/download/2-comando-commando-1985/Vigilados.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://pics.filmaffinity.com/Voces-119178429-large.jpg",Voces (2020)
+https://archive.org/download/wendy-2020_202012/Voces%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Bingo%20Hell.jpg",Bingo Hell
+https://archive.org/download/mentiras-verdaderas-1/Bingo%20Hell~1.ia.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/El%20d%C3%ADa%20de%20los%20inocentes.jpg",El día de los inocentes
+https://archive.org/download/mentiras-verdaderas-1/El%20d%C3%ADa%20de%20los%20inocentes~1.ia.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/En%20la%20oscuridad%20de%20la%20noche.jpg",En la oscuridad de la noche
+https://archive.org/download/mentiras-verdaderas-1/En%20la%20oscuridad%20de%20la%20noche~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Hay%20alguien%20en%20tu%20casa.jpg",Hay alguien en tu casa
+https://archive.org/download/mentiras-verdaderas-1/Hay%20alguien%20en%20tu%20casa~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Jack%20El%20Destripador%20La%20Historia%20no%20Contada.jpg",Jack El Destripador La Historia no Contada
+https://archive.org/download/mentiras-verdaderas-1/Jack%20El%20Destripador%20La%20Historia%20no%20Contada~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/La%20mansi%C3%B3.jpg",La mansió
+https://archive.org/download/mentiras-verdaderas-1/La%20mansi%C3%B3n~1.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Madres.jpg",Madres
+https://archive.org/download/mentiras-verdaderas-1/Madres~1.ia.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%20Normandie.jpg",Pesadilla en el Hotel Normandie
+https://archive.org/download/mentiras-verdaderas-1/Pesadilla%20en%20el%20Hotel%20Normandie~1.ia.mp4
+#EXTINF:-1 group-title="VOD TERROR" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Vuelven.jpg",Vuelven
+https://archive.org/download/mentiras-verdaderas-1/Vuelven~1.ia.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmYzYzBmYmItMDZhMy00NTQyLTk1NzUtYTU5NTgyYmIzYmE3XkEyXkFqcGdeQXVyMTE2MjAzMTU3._V1_UY268_CR1,0,182,268_AL_.jpg",AK vs AK (2020)
+https://archive.org/download/i-hate-summer-2020/AK%20vs%20AK%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Al_acecho-132033556-large.jpg",Al acecho (2020)
+https://archive.org/download/i-hate-summer-2020/Al%20acecho%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Aquellos%20que%20desean%20mi%20muerte.jpg",Aquellos que desean mi muerte
+https://archive.org/download/yummy_202105/-%20Aquellos%20que%20desean%20mi%20muerte.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Aversi_n-211916385-large.jpg",Aversio´n (2019)
+https://archive.org/download/i-hate-summer-2020/Aversio%CC%81n%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Bajos%20instintos.jpg",Bajos instintos
+https://archive.org/download/como-me-converti-en-superheroe/Bajos%20instintos.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Broken%20Star.jpg",Broken Star
+https://archive.org/download/94-1_20210929/Broken%20Star~1.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Captive.jpg",Captive
+https://archive.org/download/2-comando-commando-1985/Captive.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Casas%20de%20cristal.jpg",Casas de cristal
+https://archive.org/download/yummy_202105/-%20Casas%20de%20cristal.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic2.abc.es%2Fmedia%2Fpeliculas%2F000%2F005%2F961%2Fcaza-al-asesino-1.jpg&nuevoancho=690&medio=abc",Caza al asesino (2013)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Caza%20al%20asesino%20%282013%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Ciudad%20de%20mentiras.jpg",Ciudad de mentiras
+https://archive.org/download/94-1_20210929/Ciudad%20de%20mentiras~1.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.jpg",Codigo enigma
+https://archive.org/download/como-me-converti-en-superheroe/Codigo%20enigma.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJlOTQxNjUtMDIxNC00ODI5LWE2ZmUtYzViZDY2Y2VjY2ExXkEyXkFqcGdeQXVyNDAxOTQxMjk@._V1_.jpg",Copper Bill (2020)
+https://archive.org/download/the-immortal-wars-resurgence-2019/Copper%20Bill%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Crisis.jpg",Crisis (2021)
+https://archive.org/download/94-1_20210929/%40cesser16%20Crisis%20%282021%29%201080p~1.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/910mNotUgIL._SY445_.jpg",Dark Places (2015)
+https://archive.org/download/wendy-2020_202012/Dark%20Places%20%282015%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://miradetodo.co/wp-content/uploads/2017/08/tt1241317.jpg",Death Note (2017) 720p
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Death%20Note%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Ranch.jpg",Death Ranch
+https://archive.org/download/2-comando-commando-1985/Death%20Ranch.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.jpg",Death Saved My Life
+https://archive.org/download/2-comando-commando-1985/Death%20Saved%20My%20Life.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.jpg",Despierta la furia
+https://archive.org/download/2-comando-commando-1985/Despierta%20la%20furia.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/El%20escape.jpg",El escape
+https://archive.org/download/94-1_20210929/El%20escape.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://mega-mkv.com/wp-content/uploads/2018/02/gerald_s_game.jpg",El juego de Gerald (2017) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20El%20juego%20de%20Gerald%20%282017%29%20720p.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20El%20protector.jpg",El protector
+https://archive.org/download/2-comando-commando-1985/-%20El%20protector.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Encu_ntrame-722072874-large.jpg",Encuéntrame (2016) 720p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Encu%C3%A9ntrame%20%282016%29%20720p.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ5OGU5YmYtZjVlYy00YmUxLTk5YWItYjRjMGVmZTI3YjM4XkEyXkFqcGdeQXVyNDM5NDkyODg@._V1_.jpg",Hailey Dean Mysteries A Prescription for Murder (2019)
+https://archive.org/download/i-hate-summer-2020/Hailey%20Dean%20Mysteries%20A%20Prescription%20for%20Murder%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://www.elseptimoarte.net/carteles/207/la_chaqueta_de_piel_de_ciervo_83509.jpg",La chaqueta de piel de ciervo (2019)
+https://archive.org/download/i-hate-summer-2020/La%20chaqueta%20de%20piel%20de%20ciervo%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.jpg",La mujer en la ventana
+https://archive.org/download/yummy_202105/La%20mujer%20en%20la%20ventana.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.jpg",La mujer ilegal
+https://archive.org/download/2-comando-commando-1985/La%20mujer%20ilegal.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.jpg",La Purga Infinita
+https://archive.org/download/como-me-converti-en-superheroe/La%20Purga%2C%20Infinita.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/La_sombra_de_los_otros-421691505-large.jpg",La sombra de los otros (2010)
+https://archive.org/download/i-hate-summer-2020/La%20sombra%20de%20los%20otros%20%282010%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/Las%20Hijas%20del%20Reich%202020.jpg",Las Hijas del Reich 2020
+https://archive.org/download/94-1_20210929/Las%20Hijas%20del%20Reich%202020.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Los%20miserables.jpg",Los miserables
+https://archive.org/download/yummy_202105/-%20Los%20miserables.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/94-1_20210929/No%20respires.jpg",No respires
+https://archive.org/download/94-1_20210929/No%20respires~1.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.jpg",Out of Death
+https://archive.org/download/como-me-converti-en-superheroe/Out%20of%20Death.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://3.bp.blogspot.com/-TSbAzwQD9lU/XMcrP36YrvI/AAAAAAAAK38/XTb6XSqVaj42ei3dw8KWMm-XVkAdrvVEQCKgBGAs/s1600/Plan%2Bde%2BVuelo%2B1080p%2BLatino.png",Plan de vuelo 1080p.mp4
+https://archive.org/download/cesser-16-liga-de-la-justicia-720p/%40cesser16%20Plan%20de%20vuelo%201080p.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://static1.opensubtitles.org/gfx/thumbs/4/8/3/0/0390384.jpg",Primer (2004)
+https://archive.org/download/wendy-2020_202012/Primer%20%282004%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Prisionero%2099.jpg",Prisionero 99
+https://archive.org/download/yummy_202105/-%20Prisionero%2099.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Rocambola-814798788-large.jpg",Rocambola (2019)
+https://archive.org/download/wendy-2020_202012/Rocambola%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Soy_tu_mujer-752233198-mmed.jpg",Soy tu mujer (2020)
+https://archive.org/download/i-hate-summer-2020/Soy%20tu%20mujer%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pbs.twimg.com/media/EJRzf4MU0AEiHVP.png",The Fanatic (2019)
+https://archive.org/download/the-immortal-wars-resurgence-2019/The%20Fanatic%20%282019%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2FmZWQ1NjctMTY0Ny00MGViLWFjNDQtODJmMDE1MzY0NTAzXkEyXkFqcGdeQXVyNTc0NTE3NDc@._V1_UY1200_CR85,0,630,1200_AL_.jpg",TKG The Kids of Grove (2020)
+https://archive.org/download/eyjhbgcioijiuzi1nij9.eyjkyxrhijpbije5mc4ync41ny4wiiwizmpvb210ntnvbwj2iiwibiismsw_202101/TKG%20The%20Kids%20of%20Grove%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://pics.filmaffinity.com/Uno_de_nosotros-769765138-large.jpg",Uno de nosotros (2020)
+https://archive.org/download/i-hate-summer-2020/Uno%20de%20nosotros%20%282020%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Whiteout_poster.jpg",Whiteout (2009)
+https://archive.org/download/wendy-2020_202012/Whiteout%20%282009%29.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/yummy_202105/-%20Yo%20soy%20todas%20las%20ni%C3%B1as.jpg",Yo soy todas las niñas
+https://archive.org/download/yummy_202105/-%20Yo%20soy%20todas%20las%20ni%C3%B1as.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Culpable.jpg",Culpable
+https://archive.org/download/mentiras-verdaderas-1/Culpable~1.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Forever%20Rich.jpg",Forever Rich
+https://archive.org/download/mentiras-verdaderas-1/Forever%20Rich~1.ia.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Herencia%20venenosa.jpg",Herencia venenosa
+https://archive.org/download/mentiras-verdaderas-1/Herencia%20venenosa~1.ia.mp4
+#EXTINF:-1 group-title="VOD THIRILLER" tvg-logo="https://archive.org/download/mentiras-verdaderas-1/Hijo%20de%20Ca%C3%ADn.jpg",Hijo de Caín
+https://archive.org/download/mentiras-verdaderas-1/Hijo%20de%20Ca%C3%ADn~1.ia.mp4
+#EXTINF:-1 group-title="VOD AVENTURA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.jpg",El hombre agua
+https://archive.org/download/como-me-converti-en-superheroe/El%20hombre%20agua.mp4
+#EXTINF:-1 group-title="VOD AVENTURA" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.jpg",Rescate en el barrio Chino
+https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.mp4
+#EXTINF:-1 group-title="VOD Western" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.jpg",Muerte en Tombstone
+https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone.mp4
+#EXTINF:-1 group-title="VOD Western" tvg-logo="https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.jpg",Muerte en Tombstone 2
+https://archive.org/download/2-comando-commando-1985/-%20Muerte%20en%20Tombstone%202.mp4
+
